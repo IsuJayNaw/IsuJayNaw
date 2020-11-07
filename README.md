@@ -14,8 +14,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Isuri Nawanjanee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][_______]
-
 [<img align="left" alt="Isuri Nawanjanee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Isuri Nawanjanee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Isuri Nawanjanee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebok.svg" />][facebook]
 [<img align="left" alt="Isuri Nawanjanee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
+
+[twitter]: https://twitter.com/INawanjanee
+[instagram]: https://www.instagram.com/isu_nawanjanee/
+[linkedin]: https://www.linkedin.com/in/isuri-nawanjanee-840007185/
+[facebook]: https://www.facebook.com/isuri.nawanjanee/
