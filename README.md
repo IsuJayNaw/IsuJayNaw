@@ -19,7 +19,9 @@
 [<img align="left" alt="Isuri Nawanjanee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Isuri Nawanjanee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br/>
+<br/>
+<br/>
  
 <img align="center" alt="Isu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsuJayNaw&show_icons=true"/>
 
