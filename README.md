@@ -20,10 +20,9 @@
 [<img align="left" alt="Isuri Nawanjanee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+ 
+<img align="center" alt="Isu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsuJayNaw&show_icons=true"/>
 
-<a href="https://github.com/IsuJayNaw/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.IsuJayNaw.vercel.app/api?username=IsuJayNaw&show_icons=true&include_all_commits=true&theme=radical" alt="Isu's github stats" />
-</a>
 
 
 [twitter]: https://twitter.com/INawanjanee
