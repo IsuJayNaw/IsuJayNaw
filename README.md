@@ -22,8 +22,10 @@
 <br/>
 <br/>
 <br/>
- 
-<img align="center" alt="Isu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsuJayNaw&show_icons=true"/>
+
+<a href="D:\Js VS Code\Git IsuJay\IsuJayNaw\index.js">
+<img align="left" alt="Isu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsuJayNaw&show_icons=true"/>
+<a>
 
 
 
