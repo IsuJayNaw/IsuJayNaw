@@ -21,6 +21,10 @@
 
 <br />
 
+<a href="https://github.com/IsuJayNaw/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.IsuJayNaw.vercel.app/api?username=IsuJayNaw&show_icons=true&include_all_commits=true&theme=radical" alt="Isu's github stats" />
+</a>
+
 
 [twitter]: https://twitter.com/INawanjanee
 [instagram]: https://www.instagram.com/isu_nawanjanee/
