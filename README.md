@@ -22,9 +22,11 @@
 <br/>
 <br/>
 <br/>
-_______________________________________________________________________________________________________________<a href="https://github.com/anuraghazra/github-readme-stats">
+
+
+(<a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" alt="Isu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsuJayNaw&show_icons=true&theme=prussian"/>
-<a>
+<a>)
 
 
 
