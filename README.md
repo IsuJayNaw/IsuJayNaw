@@ -23,8 +23,8 @@
 <br/>
 <br/>
 
-<a href="D:\Js VS Code\Git IsuJay\IsuJayNaw\index.js">
-<img align="left" alt="Isu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsuJayNaw&show_icons=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" alt="Isu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsuJayNaw&show_icons=truetheme=prussian"/>
 <a>
 
 
