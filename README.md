@@ -9,6 +9,7 @@
 
 
 ### Spotify Playing 🎧
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=4e53z00vyglqsox5f7nicjyd2=1)
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/4e53z00vyglqsox5f7nicjyd2)
 
